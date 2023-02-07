@@ -1,0 +1,15 @@
+body {
+    background-color: goldenrod;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.batagorimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
